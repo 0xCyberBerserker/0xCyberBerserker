@@ -1,7 +1,9 @@
 ### Hi there 👋
-#### Welcome to my repository list!
+#### Welcome to my repository list!  <img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
 
-#### I am currently working being Security Analyst, this is my contribution with society. I hope you find something usefull!
+
+
+#### I am currently working being Security Analyst and this is my contribution with society. I hope you find something usefull here!
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
@@ -9,9 +11,6 @@
 		<img src="https://komarev.com/ghpvc/?username=JohnMorgan1234&color=brightgreen&style=flat-square" alt="Profile Views" />
 		</div>
 </div>
-<h1 align="center">
-	<img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
-</h1>
 
 ---
 
