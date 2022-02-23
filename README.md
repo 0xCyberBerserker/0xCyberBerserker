@@ -29,7 +29,7 @@
   ### ⚡ Langs<br/>
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python 3" alt="Python 3" width="40" height="40"/>&nbsp;</a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
-  <a href="https://php.net"<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;</a>
+  <a href="https://php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
