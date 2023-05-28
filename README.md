@@ -3,7 +3,7 @@
 
 
 
-#### I have been working as Level 2 Security Analyst, Developer and DevOps and this is my contribution with society. I hope you find something usefull here!
+#### I have worked as Level 2 Security Analyst, Developer and DevOps and this is my contribution with society. I hope you find something usefull here!
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
@@ -14,11 +14,11 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 💻 &nbsp;Languages and Tools :
 
 <p>
   
-  ### 🌱 Operative Systems<br/>
+  ### ⚙ Operative Systems<br/>
   <a href="https://manjaro.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/256px-Manjaro-logo.svg.png" title="Linux" alt="Linux" width="40" heigth="40"/>&nbsp;</a>
   <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Debian" alt="Debian" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.centos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;</a>
@@ -26,7 +26,7 @@
   <a href="https://www.apple.com/es/macos/monterey/"><img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;</a>
   <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
   
-  ### ⚡ Langs<br/>
+  ### ⌨ Langs<br/>
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python 3" alt="Python 3" width="40" height="40"/>&nbsp;</a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" height="40"/>&nbsp;
 
-  ### 🔭 Tools<br/>
+  ### 🛠 Tools<br/>
   <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
   <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
@@ -56,9 +56,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
 	
- ### 👾👽 Technical Knowledge  <br/>
-	Pentesting Tools:
-	
+ ### 👽 Technical Knowledge  <br/>
+	- Pentesting Tools:
 		- Information Gathering:
 			Nmap, Google Dorking, Nslookup
 		- Vulnerability analysis:
@@ -69,8 +68,8 @@
 			LinPeass, WinPeass, NetCat
 		- OSINT Tools:
 			OSINTgram, CloudEnum, Google Dorking, The Harvester
-		- Networking:
-			UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark
+	- Networking:
+		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark
 	
 
 <!--
