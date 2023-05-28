@@ -69,7 +69,7 @@
 - OSINT Tools:<br/>
 	- OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
 #### - Networking: <br/>
-	- UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
+- UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 
 	
 </p>
