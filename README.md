@@ -55,33 +55,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
-	 ### 👽 Technical Knowledge  <br/>
+ ### 👽 Technical Knowledge  <br/>
 	
-	#### - Pentesting Tools: <br/>
-	
-		- Information Gathering:<br/>
-	
-			Nmap, Google Dorking, Nslookup<br/>
-	
-		- Vulnerability analysis:<br/>
-	
-			Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.<br/>
-	
-		- Exploitation:<br/>
-	
-			Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
-	
-		- Post Explotation & Privilege Escalation:<br/>
-	
-			LinPeass, WinPeass, NetCat<br/>
-	
-		- OSINT Tools:<br/>
-	
-			OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
-	
-	#### - Networking:<br/>
-	
-		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
+#### - Pentesting Tools: <br/>
+- Information Gathering:<br/>
+	Nmap, Google Dorking, Nslookup<br/>
+- Vulnerability analysis:<br/>
+	Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.<br/>
+- Exploitation:<br/>
+	Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
+- Post Explotation & Privilege Escalation:<br/>
+	LinPeass, WinPeass, NetCat<br/>
+- OSINT Tools:<br/>
+	OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
+#### - Networking:<br/>
+	UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 
 	
 </p>
