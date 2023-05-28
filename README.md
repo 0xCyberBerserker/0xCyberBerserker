@@ -57,18 +57,31 @@
   
 	
  ### 👽 Technical Knowledge  <br/>
+	
 	#### - Pentesting Tools: <br/>
+	
 		- Information Gathering:<br/>
+	
 			Nmap, Google Dorking, Nslookup<br/>
+	
 		- Vulnerability analysis:<br/>
+	
 			Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.<br/>
+	
 		- Exploitation:<br/>
+	
 			Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
+	
 		- Post Explotation & Privilege Escalation:<br/>
+	
 			LinPeass, WinPeass, NetCat<br/>
+	
 		- OSINT Tools:<br/>
+	
 			OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
+	
 	#### - Networking:<br/>
+	
 		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 	
 </p>
