@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
 	
- ### Technical Knowledge 👾👽 <br/>
+ ### 👾👽 Technical Knowledge  <br/>
 	Pentesting Tools:
 	
 		- Information Gathering:
