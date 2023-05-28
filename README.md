@@ -57,7 +57,7 @@
   
 ### 👽 Technical Knowledge  <br/>
 	
-#### - Pentesting Tools: <br/>
+#### 👾 Pentesting Tools: <br/>
 - Information Gathering:<br/>
 	- Nmap, Google Dorking, Nslookup<br/>
 - Vulnerability analysis:<br/>
@@ -68,7 +68,7 @@
 	- LinPeass, WinPeass, NetCat<br/>
 - OSINT Tools:<br/>
 	- OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
-#### - Networking: <br/>
+#### 🕸 Networking: <br/>
 - UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 
 	
