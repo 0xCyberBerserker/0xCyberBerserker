@@ -3,7 +3,7 @@
 
 
 
-#### I am currently working being Security Analyst and this is my contribution with society. I hope you find something usefull here!
+#### I have been working as Level 2 Security Analyst, Developer and DevOps and this is my contribution with society. I hope you find something usefull here!
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
@@ -29,6 +29,7 @@
   ### ⚡ Langs<br/>
   <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python 3" alt="Python 3" width="40" height="40"/>&nbsp;</a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
   <a href="https://php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -38,7 +39,7 @@
 
   ### 🔭 Tools<br/>
   <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
-    <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;</a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -54,7 +55,23 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
-</p>
+	
+ ### Technical Knowledge<br/>
+	Pentesting Tools:
+	<ul>
+		<li>Information Gathering:
+			<ul> <li> Nmap, Google Dorking, Nslookup </ul> </li></li>
+		<li><Vulnerability analysis:
+			<ul> <li>Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs. </ul> </li></li>
+		<li>Exploitation:
+			<ul> <li>Beef, SQLMap, Metasploit Framework, SET Toolkit </ul> </li></li>
+		<li>Post Explotation & Privilege Escalation:
+			<ul> <li>LinPeass, WinPeass, NetCat </ul> </li></li>
+		<li>OSINT Tools:
+			<ul> <li>OSINTgram, CloudEnum, Google Dorking, The Harvester </ul> </li></li>
+		<li>Networking:
+			<ul> <li>UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark </ul> </li></li>
+	</ul>
 
 <!--
 **JohnMorgan1234/JohnMorgan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
