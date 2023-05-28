@@ -56,22 +56,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
 	
- ### Technical Knowledge<br/>
+ ### Technical Knowledge 👾👽 <br/>
 	Pentesting Tools:
-	<ul>
-		<li>Information Gathering:
-			<ul> <li> Nmap, Google Dorking, Nslookup </ul> </li></li>
-		<li><Vulnerability analysis:
-			<ul> <li>Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs. </ul> </li></li>
-		<li>Exploitation:
-			<ul> <li>Beef, SQLMap, Metasploit Framework, SET Toolkit </ul> </li></li>
-		<li>Post Explotation & Privilege Escalation:
-			<ul> <li>LinPeass, WinPeass, NetCat </ul> </li></li>
-		<li>OSINT Tools:
-			<ul> <li>OSINTgram, CloudEnum, Google Dorking, The Harvester </ul> </li></li>
-		<li>Networking:
-			<ul> <li>UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark </ul> </li></li>
-	</ul>
+	
+		- Information Gathering:
+			Nmap, Google Dorking, Nslookup
+		- Vulnerability analysis:
+			Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.
+		- Exploitation:
+			Beef, SQLMap, Metasploit Framework, SET Toolkit
+		- Post Explotation & Privilege Escalation:
+			LinPeass, WinPeass, NetCat
+		- OSINT Tools:
+			OSINTgram, CloudEnum, Google Dorking, The Harvester
+		- Networking:
+			UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark
+	
 
 <!--
 **JohnMorgan1234/JohnMorgan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
