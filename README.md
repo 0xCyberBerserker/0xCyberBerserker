@@ -55,8 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
-	
- ### 👽 Technical Knowledge  <br/>
+	 ### 👽 Technical Knowledge  <br/>
 	
 	#### - Pentesting Tools: <br/>
 	
@@ -83,6 +82,7 @@
 	#### - Networking:<br/>
 	
 		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
+
 	
 </p>
 <!--
