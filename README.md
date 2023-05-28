@@ -57,21 +57,21 @@
   
 	
  ### 👽 Technical Knowledge  <br/>
-	#### - Pentesting Tools:
-		- Information Gathering:
-			Nmap, Google Dorking, Nslookup
-		- Vulnerability analysis:
-			Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.
-		- Exploitation:
-			Beef, SQLMap, Metasploit Framework, SET Toolkit
-		- Post Explotation & Privilege Escalation:
-			LinPeass, WinPeass, NetCat
-		- OSINT Tools:
-			OSINTgram, CloudEnum, Google Dorking, The Harvester
-	#### - Networking:
-		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark
+	#### - Pentesting Tools: <br/>
+		- Information Gathering:<br/>
+			Nmap, Google Dorking, Nslookup<br/>
+		- Vulnerability analysis:<br/>
+			Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.<br/>
+		- Exploitation:<br/>
+			Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
+		- Post Explotation & Privilege Escalation:<br/>
+			LinPeass, WinPeass, NetCat<br/>
+		- OSINT Tools:<br/>
+			OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
+	#### - Networking:<br/>
+		UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 	
-
+</p>
 <!--
 **JohnMorgan1234/JohnMorgan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
