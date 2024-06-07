@@ -3,7 +3,7 @@
 
 
 
-#### I have worked as Level 2 Security Analyst, Developer and DevOps and this is my contribution with society. I hope you find something usefull here!
+#### I've worked as a Level 2 Security Analyst, Developer, and DevOps, and this is my contribution to society. I hope you find something useful here!
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
