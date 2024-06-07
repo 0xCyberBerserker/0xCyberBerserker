@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 #### Welcome to my repository list!  <img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
 
 
