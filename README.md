@@ -70,11 +70,21 @@
 	- OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
 #### 🕸 Networking: <br/>
 - UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
-
+### 🦠 Malware Development  <br/>
+#### 🔍 Skills in Progress:
+- **Understanding Windows API**: Learning the intricacies of the Windows API for process and memory management.
+- **Process Manipulation**: Gaining skills in creating, injecting, and modifying processes.
+- **Memory Management**: Studying techniques for accessing and manipulating memory safely and effectively.
+- **Hardware Access**: Exploring methods for interacting with hardware devices (keyboard, mouse, webcam, microphone).
+- **Hooking Techniques**: Implementing hooks to intercept and manipulate system calls for keylogging and other purposes.
+- **Evasion Techniques**: Learning about strategies to evade EDRs (Endpoint Detection and Response) and AV (Antivirus) engines.
+- **Network Communications**: Understanding how to handle unencrypted communications and implement covert channels.
+- **Creative Obfuscation**: Focusing on unique obfuscation techniques for Golang code, particularly for data structures and maps.
+- **Runtime Generation**: Developing functions that generate critical data at runtime, based on dynamic inputs and transformations.
+- **Zero-Click Exploits**: Working towards the goal of creating sophisticated zero-click exploits.
 	
 </p>
 <!--
-**JohnMorgan1234/JohnMorgan1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
