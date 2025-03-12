@@ -36,6 +36,8 @@
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" height="40"/>&nbsp;
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="golang" width="40" height="40" /></a>
+
 
   ### 🛠 Tools<br/>
   <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
