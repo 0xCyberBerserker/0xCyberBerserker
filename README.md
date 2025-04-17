@@ -68,8 +68,8 @@
 	- Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
 - Post Explotation & Privilege Escalation:<br/>
 	- LinPeass, WinPeass, NetCat<br/>
-- OSINT Tools:<br/>
-	- OSINTgram, CloudEnum, Google Dorking, The Harvester<br/>
+#### ⚙️ DevOps Tools <br/>
+- Github Actions, Jenkins, GitLab, Docker, AWS, Azure
 #### 🕸 Networking: <br/>
 - UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
 ### 🦠 Malware Development  <br/>
