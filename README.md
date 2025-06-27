@@ -4,6 +4,7 @@
 
 
 #### I've worked as a Level 2 Security Analyst, Developer, and DevOps, and this is my contribution to society. I hope you find something useful here!
+#### 🛑 Most of my repositories are private! If you as an interviewer want to see more, just tell me.
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
