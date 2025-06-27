@@ -22,10 +22,13 @@ Proudly, I was global mod of the following historical hacking forums:
 Archive.org profile of the forum: https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/
 
 
-![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) Underc0de.org
+![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
 
+Underc0de.org
 
-![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) (The only screenshot I could get)
+![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
+
+(The only screenshot I could get)
 
 </p>
 
