@@ -25,7 +25,7 @@ If you're an interviewer or recruiter and want access to more tools or source co
 
 | 🔧 Tool | 💡 Description |
 |--------|----------------|
-| [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) | *(public)* Lightweight remote control tool in Go. Supports command execution, clipboard steal, layout detection. |
+| [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) *(public)* | Lightweight remote control tool in Go. Supports command execution, clipboard steal, layout detection. |
 | [Go Keylogger with work in progress reflective DLL injection](https://github.com/0xCyberBerserker/GoKeylogger) *(public)* | Keylogger using Reflective DLL injection (Go+C). Still detectable. |
 | [Tor-Attack-Tools](https://github.com/0xCyberBerserker/Tor-AttackTools) *(public)* | Red Team infrastructure deployment with two containers. One Debian working as a Tor proxy and a Kali as a attacker machine. |
 | [JobSniper](https://github.com/0xCyberBerserker) *(private)* | Offensive automation for job applications. Flet GUI + Selenium bot. |
