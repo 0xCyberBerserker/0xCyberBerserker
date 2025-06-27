@@ -16,7 +16,7 @@
 
 ---
 <p>
-Proudly old global mod of the following historical hacking forums:
+Proudly old global mod of the following historical spanish-talking hacking forums:
 
 ![image](https://github.com/user-attachments/assets/beed397d-ed5a-4c39-93f7-fdda56d114f8) 
 
