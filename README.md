@@ -1,112 +1,95 @@
 ### Hello there! 👋
-#### Welcome to my repository list!  <img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
+#### Welcome to my repository list!  
+<img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
 
+---
 
+### 🧠 Who am I?
 
-#### I've worked as a Level 2 Security Analyst, Developer, and DevOps, and this is my contribution to society. I hope you find something useful here!
-#### 🛑 Most of my repositories are private! If you as an interviewer want to see more, just tell me.
+I’m an **Offensive Security Developer**, with experience in **Red Team**, **DevSecOps**, and backend automation. I’ve worked as a Level 2 Security Analyst, Team Lead, and Backend/DevOps Engineer. This GitHub is where I share my side-projects and research — all for educational and security research purposes.
+
+> 🛑 **Most of my repositories are private!**  
+If you're an interviewer or recruiter and want access to more tools or source code, just reach out.
+
+---
 
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
-</br><div id="profile views">
-		<img src="https://komarev.com/ghpvc/?username=JohnMorgan1234&color=brightgreen&style=flat-square" alt="Profile Views" />
-		</div>
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=0xCyberBerserker&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
-
 ---
-<p>
-Proudly old global mod of the following historical spanish-talking hacking forums:
 
-![image](https://github.com/user-attachments/assets/beed397d-ed5a-4c39-93f7-fdda56d114f8) 
+### 🧩 Highlighted Projects
 
-Hack x Crack - Domain has expired. 
-
-Archive.org profile of the forum: https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/
-
-
-![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
-
-Underc0de.org - Still existing.
-Profile: https://underc0de.org/foro/index.php?action=profile;u=1971
-![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
-
-(The only screenshot I could get)
-
-</p>
+| 🔧 Tool | 💡 Description |
+|--------|----------------|
+| [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) | *(public)* Lightweight remote control tool in Go. Supports command execution, clipboard steal, layout detection. |
+| [Go Keylogger with work in progress reflective DLL injection](https://github.com/0xCyberBerserker/GoKeylogger) *(public)* | Keylogger using Reflective DLL injection (Go+C). Still detectable. |
+| [Tor-Attack-Tools](https://github.com/0xCyberBerserker/Tor-AttackTools) *(public)* | Red Team infrastructure deployment with two containers. One Debian working as a Tor proxy and a Kali as a attacker machine. |
+| [JobSniper](https://github.com/0xCyberBerserker) *(private)* | Offensive automation for job applications. Flet GUI + Selenium bot. |
 
 ---
 
-### 💻 &nbsp;Languages and Tools :
+### 👽 Hacker Roots
 
-<p>
+Proudly former global moderator of two historic Spanish-speaking hacking forums:
+
+- 🧬 **Hack x Crack** – *Legendary. Domain is gone but never forgotten.*
+
+  ![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
+
+  Archive: [HackxCrack on Archive.org](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
   
-  ### ⚙ Operative Systems<br/>
-  <a href="https://manjaro.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/256px-Manjaro-logo.svg.png" title="Linux" alt="Linux" width="40" heigth="40"/>&nbsp;</a>
-  <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  title="Debian" alt="Debian" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.centos.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.microsoft.com/es-es/windows"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.apple.com/es/macos/monterey/"><img src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;</a>
-  <a href="https://www.raspberrypi.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;</a>
   
-  ### ⌨ Langs<br/>
-  <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python 3" alt="Python 3" width="40" height="40"/>&nbsp;</a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
-  <a href="https://php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" height="40"/>&nbsp;
-  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="golang" width="40" height="40" /></a>
+- 🦠 **Underc0de.org** – *Still active and evolving*  
+  Profile: [View on Underc0de](https://underc0de.org/foro/index.php?action=profile;u=1971)
+  
+  ![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
 
 
-  ### 🛠 Tools<br/>
-  <a href="https://docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="InkScape" alt="InkScape" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"  title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  
-### 👽 Technical Knowledge  <br/>
-	
-#### 👾 Pentesting Tools: <br/>
-- Information Gathering:<br/>
-	- Nmap, Google Dorking, Nslookup<br/>
-- Vulnerability analysis:<br/>
-	- Nikto, Nmap Scripts, Burp Suite Community, Exploit-DB to search for CVEs.<br/>
-- Exploitation:<br/>
-	- Beef, SQLMap, Metasploit Framework, SET Toolkit<br/>
-- Post Explotation & Privilege Escalation:<br/>
-	- LinPeass, WinPeass, NetCat<br/>
-#### ⚙️ DevOps Tools <br/>
-- Github Actions, Jenkins, GitLab, Docker, AWS, Azure
-#### 🕸 Networking: <br/>
-- UFW / IPTables, Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar, WireShark<br/>
-### 🦠 Malware Development  <br/>
-#### 🔍 Skills in Progress:
-- **Understanding Windows API**: Learning the intricacies of the Windows API for process and memory management.
-- **Process Manipulation**: Gaining skills in creating, injecting, and modifying processes.
-- **Memory Management**: Studying techniques for accessing and manipulating memory safely and effectively.
-- **Hardware Access**: Exploring methods for interacting with hardware devices (keyboard, mouse, webcam, microphone).
-- **Hooking Techniques**: Implementing hooks to intercept and manipulate system calls for keylogging and other purposes.
-- **Evasion Techniques**: Learning about strategies to evade EDRs (Endpoint Detection and Response) and AV (Antivirus) engines.
-- **Network Communications**: Understanding how to handle unencrypted communications and implement covert channels.
-- **Creative Obfuscation**: Focusing on unique obfuscation techniques for Golang code, particularly for data structures and maps.
-- **Runtime Generation**: Developing functions that generate critical data at runtime, based on dynamic inputs and transformations.
-- **Zero-Click Exploits**: Working towards the goal of creating sophisticated zero-click exploits.
-	
+---
+
+### 🧠 Technical Focus
+
+#### 👾 Pentesting Tools
+- Enumeration: Nmap, Google Dorks, Nslookup  
+- Vuln Scanning: Nikto, Burp Suite, SQLMap  
+- Exploitation: Metasploit, SET, Beef  
+- Post-Exploitation: LinPEAS, WinPEAS, Netcat
+
+#### ⚙️ DevSecOps
+- CI/CD: GitHub Actions, Jenkins  
+- Infra: Terraform, Docker, AWS, IBM Cloud  
+- Scripting: Python, Bash, Go, PowerShell
+
+#### 🕸 Networking & Detection
+- UFW, IP Tables, Wireshark  
+- Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar
+
+#### 🦠 Malware Dev (in progress)
+- Process injection, Windows API, memory manipulation  
+- EDR evasion, hooking, hardware access  
+- Creative obfuscation in Golang (runtime map generation)  
+- Researching 0-click vectors & covert channels
+
+---
+
+### 💻 Languages & Tools
+
+<p align="left">
+<a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
+<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+<a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
+<a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-
-
+---
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-guti%C3%A9rrez-lavado-684691b1)  
+- 💀 [GitHub](https://github.com/0xCyberBerserker)  
