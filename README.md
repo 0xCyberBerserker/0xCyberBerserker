@@ -91,5 +91,8 @@ Proudly former global moderator of two historic Spanish-speaking hacking forums:
 </p>
 
 ---
+
+### 📫 Contact
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-guti%C3%A9rrez-lavado-684691b1)  
 - 💀 [GitHub](https://github.com/0xCyberBerserker)  
