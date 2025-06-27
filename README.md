@@ -26,8 +26,8 @@ Archive.org profile of the forum: https://web.archive.org/web/20200923003951/htt
 
 ![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
 
-Underc0de.org
-
+Underc0de.org - Still existing.
+Profile: https://underc0de.org/foro/index.php?action=profile;u=1971
 ![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
 
 (The only screenshot I could get)
