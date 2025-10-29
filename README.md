@@ -29,6 +29,7 @@ If you're an interviewer or recruiter and want access to more tools or source co
 | [Go Keylogger with work in progress reflective DLL injection](https://github.com/0xCyberBerserker/GoKeylogger) *(public)* | Keylogger using Reflective DLL injection (Go+C). Still detectable. |
 | [Tor-Attack-Tools](https://github.com/0xCyberBerserker/Tor-AttackTools) *(public)* | Red Team infrastructure deployment with two containers. One Debian working as a Tor proxy and a Kali as a attacker machine. |
 | [JobSniper](https://github.com/0xCyberBerserker) *(private)* | Offensive automation for job applications. Flet GUI + Selenium bot. |
+| [n8n-nodes-linked-api Investigation](n8n-linked-api-investigation.md) | Comprehensive research on LinkedIn automation with n8n using Linked API. |
 
 ---
 
