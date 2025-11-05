@@ -30,7 +30,7 @@ If you're an interviewer or recruiter and want access to more tools or source co
 | [Tor-Attack-Tools](https://github.com/0xCyberBerserker/Tor-AttackTools) *(Public)* | Red Team infrastructure deployment with two containers. One Debian working as a Tor proxy and a Kali as a attacker machine. |
 | [HexStrike v6 AI pre-configured Docker image](https://github.com/0xCyberBerserker/hexstrike-docker) *(Public)* | A docker image to use HexStrike MCP AI server. +150 preconfigured tools. |
 | [JobSniper](https://github.com/0xCyberBerserker) *(Private)* | Offensive automation for job applications. Flet GUI + Selenium bot. |
-| [Volunteer web development for the Dana disaster](https://github.com/0xCyberBerserker/paginaSantuarioDana) *(Public)* | Serverless simple website done with Hugo. Done with love for the animals that were affected by this disaster. [Link](https://santuariodana.org/) |
+| [Volunteer web development for the Dana disaster](https://github.com/0xCyberBerserker/paginaSantuarioDana) *(Public)* | Serverless simple website done with Hugo stored on CloudFlare. Made with love ♥️ for the animals that were affected by this disaster. [Link](https://santuariodana.org/) |
 
 ---
 
