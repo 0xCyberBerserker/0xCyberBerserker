@@ -38,7 +38,7 @@ Proudly former global moderator of two historic Spanish-speaking hacking forums:
 
 - 🧬 **Hack x Crack** – *Legendary. Domain is gone but never forgotten.*
 
-  ![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
+  ![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
 
   Archive: [HackxCrack on Archive.org](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
   
@@ -46,7 +46,9 @@ Proudly former global moderator of two historic Spanish-speaking hacking forums:
 - 🦠 **Underc0de.org** – *Still active and evolving*  
   Profile: [View on Underc0de](https://underc0de.org/foro/index.php?action=profile;u=1971)
   
-  ![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
+  ![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
+  
+  
 
 
 ---
@@ -94,5 +96,5 @@ Proudly former global moderator of two historic Spanish-speaking hacking forums:
 
 ### 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juan-carlos-guti%C3%A9rrez-lavado-684691b1)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jcarlosgl-offensive-security/)  
 - 💀 [GitHub](https://github.com/0xCyberBerserker)  
