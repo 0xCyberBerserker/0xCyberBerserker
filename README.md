@@ -34,6 +34,8 @@ I like building systems that feel cohesive from end to end:
 Most of my heavier work is private, client-bound, experimental, or simply not ready for daylight yet.  
 If you're a recruiter, interviewer, or security lead and want a clearer picture of what I build, feel free to reach out.
 
+That also includes private work under **Job-Sniper**: internal repos and systems I can reference at a high level, but not crack open in public.
+
 ---
 
 ## Now Building
@@ -55,6 +57,12 @@ Links:
 - Repo: [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
 - Landing: [ghosttrace-lab/en](https://0xcyberberserker.github.io/ghosttrace-lab/en/)
 - Landing (ES): [ghosttrace-lab/es](https://0xcyberberserker.github.io/ghosttrace-lab/es/)
+
+### 🎯 Job-Sniper
+
+I also spend time on **Job-Sniper** private repos inside its organization.
+
+That work stays off the public stage for obvious reasons, but it sits in the same lane: backend-heavy systems, automation, AI-assisted workflows, and tooling built to do real work instead of just looking clever in screenshots.
 
 ---
 
