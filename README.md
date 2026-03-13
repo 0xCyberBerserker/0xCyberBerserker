@@ -1,6 +1,6 @@
 <div align="center">
   <h1>0xCyberBerserker</h1>
-  <p><strong>Security engineer building reverse engineering, binary analysis, and operator-grade security tooling.</strong></p>
+  <p><strong>Security Engineering Researcher obsessed with exploiting, malware analysis, backend engineering, hardened infrastructure, AI development, and custom security tooling that works in the real world. Always chasing the edge of what’s next.</strong></p>
   <p>
     <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace" src="https://img.shields.io/badge/GhostTrace-live-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
     <a href="https://0xcyberberserker.github.io/ghosttrace-lab/en/"><img alt="Landing" src="https://img.shields.io/badge/landing-online-0a1324?style=for-the-badge&logo=githubpages&logoColor=46f3ff&labelColor=07111d"></a>
@@ -16,7 +16,7 @@
 
 ## Who I am
 
-I work across offensive security, reverse engineering, DevSecOps, backend automation, and security tooling.
+I work across offensive security, reverse engineering, backend engineering, DevSecOps, AI development, and custom security tooling.
 
 I care about systems that are actually usable by operators:
 - less tab graveyard energy
