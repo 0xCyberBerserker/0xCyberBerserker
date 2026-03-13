@@ -34,7 +34,15 @@ I like building systems that feel cohesive from end to end:
 Most of my heavier work is private, client-bound, experimental, or simply not ready for daylight yet.  
 If you're a recruiter, interviewer, or security lead and want a clearer picture of what I build, feel free to reach out.
 
-That also includes private work under **Job-Sniper**: internal repos and systems I can reference at a high level, but not crack open in public.
+That also includes private work I can reference at a high level, but not crack open in public without stepping on the wrong toes.
+
+Private/internal threads that matter:
+- **Job-Sniper** — backend-heavy automation, AI-assisted workflows, and internal tooling.
+- **hexstrike-docker** — container and MCP-oriented integration work around operator tooling.
+- **Licitaciones-del-Estado** — Python automation around public procurement workflows and data handling.
+- **LinkedIn-Easy-Apply-Bot / searchmeajobBot** — job automation experiments, scraping flows, and workflow design.
+- **PreguntasCursor** — prompt, workflow, and agent-facing experimentation.
+- **VPNRoulette_Script / openvpn-frontend** — older VPN and control-surface experiments that still say something about how I build.
 
 ---
 
@@ -64,6 +72,16 @@ I also spend time on **Job-Sniper** private repos inside its organization.
 
 That work stays off the public stage for obvious reasons, but it sits in the same lane: backend-heavy systems, automation, AI-assisted workflows, and tooling built to do real work instead of just looking clever in screenshots.
 
+### 🧪 Other active private threads
+
+There are a few other private lines of work that don't get a public repo tour, but still matter to the picture:
+
+- **hexstrike-docker** for containerised operator tooling and MCP-facing workflows
+- **Licitaciones-del-Estado** for Python automation and data workflows
+- **LinkedIn-Easy-Apply-Bot** and **searchmeajobBot** for automation experiments around job systems
+- **PreguntasCursor** for prompt and agent workflow experiments
+- **VPNRoulette_Script** and **openvpn-frontend** as older but still telling infrastructure/tooling work
+
 ---
 
 ## Selected Public Work
@@ -72,9 +90,25 @@ That work stays off the public stage for obvious reasons, but it sits in the sam
 |---|---|
 | [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | AI-assisted reverse engineering workbench with Ghidraaas, Ollama, Windows sandboxing, and debugger-aware workflows. |
 | [BloodMoonPZ / PZServer](https://github.com/BloodMoonPZ/PZServer) | Legacy Project Zomboid server engineering work. Archived and discontinued now, but still left public and usable as-is. |
+| [CLI-Anything](https://github.com/0xCyberBerserker/CLI-Anything) | Agent-native CLI exploration track I am following because I care about where AI tooling is going next. |
 | [LAN_Enumeration_and_Reconnaissance_Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) | Recon and enumeration tooling focused on practical network visibility. |
 | [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer web work built to support animals affected by the Dana disaster in Valencia. |
 | [Tor-AttackTools](https://github.com/0xCyberBerserker/Tor-AttackTools) | Lab-style offensive infrastructure and routed tooling for controlled security research. |
+
+---
+
+## Other public traces
+
+Not every public repo needs the front seat, but some of them still help explain the shape of the work:
+
+- [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) — rougher offensive tooling territory
+- [GoKeylogger](https://github.com/0xCyberBerserker/GoKeylogger) — old proof-of-concept territory, part of the roots
+- [PythonCrypter](https://github.com/0xCyberBerserker/PythonCrypter) — small crypto utility work
+- [ScriptCollection](https://github.com/0xCyberBerserker/ScriptCollection) and [fsdenv](https://github.com/0xCyberBerserker/fsdenv) — quality-of-life shell and dev environment tooling
+- [terraform-aws-samples](https://github.com/0xCyberBerserker/terraform-aws-samples) — infrastructure-as-code samples from the DevOps side
+- [X-Force-Analysis](https://github.com/0xCyberBerserker/X-Force-Analysis), [VirusTotalScreenShot](https://github.com/0xCyberBerserker/VirusTotalScreenShot), [AbuseIPdbSCAN](https://github.com/0xCyberBerserker/AbuseIPdbSCAN), and [nmapListScanner](https://github.com/0xCyberBerserker/nmapListScanner) — smaller security utilities, API integrations, and scanning helpers
+
+Some are sharper than others. Some are older than they should be. All of them tell part of the story.
 
 ---
 
