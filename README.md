@@ -39,10 +39,8 @@ That also includes private work I can reference at a high level, but not crack o
 Private/internal threads that matter:
 - **Job-Sniper** — backend-heavy automation, AI-assisted workflows, and internal tooling.
 - **hexstrike-docker** — container and MCP-oriented integration work around operator tooling.
-- **Licitaciones-del-Estado** — Python automation around public procurement workflows and data handling.
 - **LinkedIn-Easy-Apply-Bot / searchmeajobBot** — job automation experiments, scraping flows, and workflow design.
-- **PreguntasCursor** — prompt, workflow, and agent-facing experimentation.
-- **VPNRoulette_Script / openvpn-frontend** — older VPN and control-surface experiments that still say something about how I build.
+- **openvpn-frontend** — older control-surface and infrastructure experimentation that still says something about how I build.
 
 ---
 
@@ -77,10 +75,8 @@ That work stays off the public stage for obvious reasons, but it sits in the sam
 There are a few other private lines of work that don't get a public repo tour, but still matter to the picture:
 
 - **hexstrike-docker** for containerised operator tooling and MCP-facing workflows
-- **Licitaciones-del-Estado** for Python automation and data workflows
 - **LinkedIn-Easy-Apply-Bot** and **searchmeajobBot** for automation experiments around job systems
-- **PreguntasCursor** for prompt and agent workflow experiments
-- **VPNRoulette_Script** and **openvpn-frontend** as older but still telling infrastructure/tooling work
+- **openvpn-frontend** as older but still telling infrastructure/tooling work
 
 ---
 
