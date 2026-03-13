@@ -1,6 +1,7 @@
 <div align="center">
   <h1>0xCyberBerserker</h1>
-  <p><strong>Security Engineering Researcher obsessed with exploiting, malware analysis, backend engineering, hardened infrastructure, AI development, and custom security tooling that works in the real world. Always chasing the edge of what’s next.</strong></p>
+  <p><strong>Security Engineering Researcher focused on exploiting, malware analysis, backend systems, AI, and custom security tooling.</strong></p>
+  <p><em>Building things for people who are tired of tab graveyards, broken context, and tools that almost work.</em></p>
   <p>
     <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace" src="https://img.shields.io/badge/GhostTrace-live-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
     <a href="https://0xcyberberserker.github.io/ghosttrace-lab/en/"><img alt="Landing" src="https://img.shields.io/badge/landing-online-0a1324?style=for-the-badge&logo=githubpages&logoColor=46f3ff&labelColor=07111d"></a>
@@ -14,18 +15,24 @@
 
 ---
 
-## Who I am
+## About
 
-I work across offensive security, reverse engineering, backend engineering, DevSecOps, AI development, and custom security tooling.
+I move between:
+- reverse engineering
+- malware analysis
+- offensive security
+- backend engineering
+- AI-assisted workflows
+- custom tooling for people doing real work under pressure
 
-I care about systems that are actually usable by operators:
-- less tab graveyard energy
-- less broken context between tools
-- more signal
-- more evidence that survives the next pass
+I like building systems that feel cohesive from end to end:
+- one trail of evidence
+- one operator-facing surface
+- less context loss between tools
+- more things you can actually script, automate, or trust
 
-Most of my serious work is private, client-bound, experimental, or still rough around the edges.  
-If you're a recruiter, interviewer, or security lead and want a better picture of what I build, reach out.
+Most of my heavier work is private, client-bound, experimental, or simply not ready for daylight yet.  
+If you're a recruiter, interviewer, or security lead and want a clearer picture of what I build, feel free to reach out.
 
 ---
 
@@ -33,11 +40,11 @@ If you're a recruiter, interviewer, or security lead and want a better picture o
 
 ### 👻 GhostTrace
 
-[`GhostTrace`](https://github.com/0xCyberBerserker/ghosttrace-lab) is my current flagship project:
+[`GhostTrace`](https://github.com/0xCyberBerserker/ghosttrace-lab) is the project that best represents where my head is right now.
 
 > Reverse engineering with operator-grade workflows, debugger context, sandbox trails, and less tab graveyard energy.
 
-It pulls together:
+It brings together:
 - `Ghidraaas` for static analysis
 - local `Ollama` for reasoning
 - persistent triage per sample
@@ -45,56 +52,70 @@ It pulls together:
 - an `x64dbg` bridge that feeds debugger context back into the same workspace
 
 Links:
-- Repo: [github.com/0xCyberBerserker/ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
-- Landing: [0xcyberberserker.github.io/ghosttrace-lab/en/](https://0xcyberberserker.github.io/ghosttrace-lab/en/)
-- Landing (ES): [0xcyberberserker.github.io/ghosttrace-lab/es/](https://0xcyberberserker.github.io/ghosttrace-lab/es/)
+- Repo: [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
+- Landing: [ghosttrace-lab/en](https://0xcyberberserker.github.io/ghosttrace-lab/en/)
+- Landing (ES): [ghosttrace-lab/es](https://0xcyberberserker.github.io/ghosttrace-lab/es/)
 
 ---
 
 ## Selected Public Work
 
-| Project | What it is |
+| Project | Why it matters |
 |---|---|
 | [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | AI-assisted reverse engineering workbench with Ghidraaas, Ollama, Windows sandboxing, and debugger-aware workflows. |
 | [LAN_Enumeration_and_Reconnaissance_Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) | Recon and enumeration tooling focused on practical network visibility. |
-| [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer work: a lightweight public-facing site built to support animals affected by the Dana disaster in Valencia. |
+| [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer web work built to support animals affected by the Dana disaster in Valencia. |
 | [Tor-AttackTools](https://github.com/0xCyberBerserker/Tor-AttackTools) | Lab-style offensive infrastructure and routed tooling for controlled security research. |
 
 ---
 
 ## Hacker Roots
 
-I’m not interested in scrubbing the old scene out of the story.
+I’m not interested in pretending the old scene never happened.
 
-Those roots matter.
+Those roots shaped how I think about security, tooling, and culture.
 
 Former global moderator of two historic Spanish-speaking hacking forums:
 
 - **Hack x Crack**
-  Legendary. Domain gone, memory intact.
+  Legendary. Domain gone, memory intact.  
   Archive: [web.archive.org / hackxcrack](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
 
 - **Underc0de**
-  Still alive, still moving.
+  Still alive, still moving.  
   Profile: [underc0de.org](https://underc0de.org/foro/index.php?action=profile;u=1971)
 
-That background shaped how I think about tools:
-- keep them sharp
-- keep them usable
-- keep them grounded in reality
+That background taught me to value tools that are:
+- sharp
+- usable
+- grounded in reality
+- built by people who have actually needed them
 
 ---
 
-## Technical Focus
+## What I Like Building
 
-- Reverse engineering and binary analysis
-- Malware analysis and threat research
-- Debugger-aware workflows and Windows internals
-- Security automation and DevSecOps
-- Offensive security tooling
-- Local-first AI integrations for technical workflows
+### Research
+- Exploiting
+- Malware analysis
+- Reverse engineering
+- Threat research
+- Windows internals
 
-Main tools and languages:
+### Engineering
+- Backend systems
+- Security APIs
+- DevSecOps automation
+- Hardened infrastructure
+- Custom red/blue team tooling
+
+### AI
+- Local-first AI workflows
+- Practical model integration
+- Operator-facing assistants
+- Tooling that uses AI without becoming slop
+
+Main languages and tools:
 - Python
 - Go
 - PowerShell
