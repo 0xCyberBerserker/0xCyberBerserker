@@ -1,102 +1,109 @@
-### Hello there! 👋
-#### Welcome to my repository list!  
-<img src="https://emoji.discord.st/emojis/c1f543ec-27f4-4dc2-baf0-5c5dcb038d17.gif" width="30px" alt="Waving hand"/>
-
----
-
-### 🧠 Who am I?
-
-I’m an **Offensive Security Developer**, with experience in **Red Team**, **DevSecOps**, and backend automation. I’ve worked as a Level 2 Security Analyst, Team Lead, and Backend/DevOps Engineer. This GitHub is where I share my side-projects and research — all for educational and security research purposes.
-
-> 🛑 **Most of my repositories are private!**  
-If you're an interviewer or recruiter and want access to more tools or source code, just reach out.
-
----
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="250"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=0xCyberBerserker&color=brightgreen&style=flat-square" alt="Profile Views" />
+<div align="center">
+  <h1>0xCyberBerserker</h1>
+  <p><strong>Security engineer building reverse engineering, binary analysis, and operator-grade security tooling.</strong></p>
+  <p>
+    <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace" src="https://img.shields.io/badge/GhostTrace-live-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
+    <a href="https://0xcyberberserker.github.io/ghosttrace-lab/en/"><img alt="Landing" src="https://img.shields.io/badge/landing-online-0a1324?style=for-the-badge&logo=githubpages&logoColor=46f3ff&labelColor=07111d"></a>
+    <img alt="Focus" src="https://img.shields.io/badge/focus-reverse%20engineering-0a1324?style=for-the-badge&logo=gnubash&logoColor=ff4fd8&labelColor=07111d">
+  </p>
 </div>
 
 ---
 
-### 🧩 Highlighted Projects
+## Who I am
 
-| 🔧 Tool | 💡 Description |
-|--------|----------------|
-| [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) *(Public)* | Lightweight remote control tool in Go. Supports command execution, clipboard steal, layout detection. |
-| [Go Keylogger with work in progress reflective DLL injection](https://github.com/0xCyberBerserker/GoKeylogger) *(public)* | Keylogger using Reflective DLL injection (Go+C). Still detectable. |
-| [Tor-Attack-Tools](https://github.com/0xCyberBerserker/Tor-AttackTools) *(Public)* | Red Team infrastructure deployment with two containers. One Debian working as a Tor proxy and a Kali as a attacker machine. |
-| [HexStrike v6 AI pre-configured Docker image](https://github.com/0xCyberBerserker/hexstrike-docker) *(Public)* | A docker image to use HexStrike MCP AI server. +150 preconfigured tools. |
-| [JobSniper](https://github.com/0xCyberBerserker) *(Private)* | Offensive automation for job applications. Flet GUI + Selenium bot. |
-| [Volunteer web development for the Dana disaster](https://github.com/0xCyberBerserker/paginaSantuarioDana) *(Public)* | Serverless simple website done with Hugo stored on CloudFlare. Made with love ♥️ for the animals that were affected by this disaster. [Link](https://santuariodana.org/) |
+I work across offensive security, reverse engineering, DevSecOps, backend automation, and security tooling.
 
----
+I care about systems that are actually usable by operators:
+- less tab graveyard energy
+- less broken context between tools
+- more signal
+- more evidence that survives the next pass
 
-### 👽 Hacker Roots
-
-Proudly former global moderator of two historic Spanish-speaking hacking forums:
-
-- 🧬 **Hack x Crack** – *Legendary. Domain is gone but never forgotten.*
-
-  ![image](https://github.com/user-attachments/assets/09fe1bb9-2724-4659-b8e1-5a96ac076fae) 
-
-  Archive: [HackxCrack on Archive.org](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
-  
-  
-- 🦠 **Underc0de.org** – *Still active and evolving*  
-  Profile: [View on Underc0de](https://underc0de.org/foro/index.php?action=profile;u=1971)
-  
-  ![image](https://github.com/user-attachments/assets/e69a4963-8180-4957-a095-0a2906c541d0) 
-  
-  
-
+Most of my serious work is private, client-bound, experimental, or still rough around the edges.  
+If you're a recruiter, interviewer, or security lead and want a better picture of what I build, reach out.
 
 ---
 
-### 🧠 Technical Focus
+## Now Building
 
-#### 👾 Pentesting Tools
-- Enumeration: Nmap, Google Dorks, Nslookup  
-- Vuln Scanning: Nikto, Burp Suite, SQLMap  
-- Exploitation: Metasploit, SET, Beef  
-- Post-Exploitation: LinPEAS, WinPEAS, Netcat
+### 👻 GhostTrace
 
-#### ⚙️ DevSecOps
-- CI/CD: GitHub Actions, Jenkins  
-- Infra: Terraform, Docker, AWS, IBM Cloud  
-- Scripting: Python, Bash, Go, PowerShell
+[`GhostTrace`](https://github.com/0xCyberBerserker/ghosttrace-lab) is my current flagship project:
 
-#### 🕸 Networking & Detection
-- UFW, IP Tables, Wireshark  
-- Azure Sentinel, Cortex XDR, Imperva WAF, IBM QRadar
+> Reverse engineering with operator-grade workflows, debugger context, sandbox trails, and less tab graveyard energy.
 
-#### 🦠 Malware Dev (in progress)
-- Process injection, Windows API, memory manipulation  
-- EDR evasion, hooking, hardware access  
-- Creative obfuscation in Golang (runtime map generation)  
-- Researching 0-click vectors & covert channels
+It pulls together:
+- `Ghidraaas` for static analysis
+- local `Ollama` for reasoning
+- persistent triage per sample
+- a reproducible Windows lab with SSH
+- an `x64dbg` bridge that feeds debugger context back into the same workspace
+
+Links:
+- Repo: [github.com/0xCyberBerserker/ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
+- Landing: [0xcyberberserker.github.io/ghosttrace-lab/en/](https://0xcyberberserker.github.io/ghosttrace-lab/en/)
+- Landing (ES): [0xcyberberserker.github.io/ghosttrace-lab/es/](https://0xcyberberserker.github.io/ghosttrace-lab/es/)
 
 ---
 
-### 💻 Languages & Tools
+## Selected Public Work
 
-<p align="left">
-<a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-<a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
-<a href="https://www.debian.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
+| Project | What it is |
+|---|---|
+| [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | AI-assisted reverse engineering workbench with Ghidraaas, Ollama, Windows sandboxing, and debugger-aware workflows. |
+| [LAN_Enumeration_and_Reconnaissance_Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) | Recon and enumeration tooling focused on practical network visibility. |
+| [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer work: a lightweight public-facing site built to support animals affected by the Dana disaster in Valencia. |
+| [Tor-AttackTools](https://github.com/0xCyberBerserker/Tor-AttackTools) | Lab-style offensive infrastructure and routed tooling for controlled security research. |
 
 ---
 
-### 📫 Contact
+## Hacker Roots
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jcarlosgl-offensive-security/)  
-- 💀 [GitHub](https://github.com/0xCyberBerserker)  
+I’m not interested in scrubbing the old scene out of the story.
+
+Those roots matter.
+
+Former global moderator of two historic Spanish-speaking hacking forums:
+
+- **Hack x Crack**
+  Legendary. Domain gone, memory intact.
+  Archive: [web.archive.org / hackxcrack](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
+
+- **Underc0de**
+  Still alive, still moving.
+  Profile: [underc0de.org](https://underc0de.org/foro/index.php?action=profile;u=1971)
+
+That background shaped how I think about tools:
+- keep them sharp
+- keep them usable
+- keep them grounded in reality
+
+---
+
+## Technical Focus
+
+- Reverse engineering and binary analysis
+- Malware analysis and threat research
+- Debugger-aware workflows and Windows internals
+- Security automation and DevSecOps
+- Offensive security tooling
+- Local-first AI integrations for technical workflows
+
+Main tools and languages:
+- Python
+- Go
+- PowerShell
+- Bash
+- Docker
+- Windows
+- Linux
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/jcarlosgl-offensive-security](https://www.linkedin.com/in/jcarlosgl-offensive-security/)
+- GitHub: [github.com/0xCyberBerserker](https://github.com/0xCyberBerserker)
+
+Improvement ideas are welcome, and thoughtful criticism is always taken seriously.
