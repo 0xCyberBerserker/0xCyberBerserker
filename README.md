@@ -6,6 +6,10 @@
     <a href="https://0xcyberberserker.github.io/ghosttrace-lab/en/"><img alt="Landing" src="https://img.shields.io/badge/landing-online-0a1324?style=for-the-badge&logo=githubpages&logoColor=46f3ff&labelColor=07111d"></a>
     <img alt="Focus" src="https://img.shields.io/badge/focus-reverse%20engineering-0a1324?style=for-the-badge&logo=gnubash&logoColor=ff4fd8&labelColor=07111d">
   </p>
+  <p>
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0xCyberBerserker&color=46f3ff&style=flat-square&label=profile+views">
+    <img alt="Tomcat on duty" src="https://img.shields.io/badge/%F0%9F%98%BC-tomcat%20on%20duty-0a1324?style=flat-square&labelColor=07111d&color=ff4fd8">
+  </p>
 </div>
 
 ---
