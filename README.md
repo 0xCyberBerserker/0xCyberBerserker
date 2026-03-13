@@ -63,9 +63,23 @@ Links:
 | Project | Why it matters |
 |---|---|
 | [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | AI-assisted reverse engineering workbench with Ghidraaas, Ollama, Windows sandboxing, and debugger-aware workflows. |
+| [BloodMoonPZ / PZServer](https://github.com/BloodMoonPZ/PZServer) | Legacy Project Zomboid server engineering work. Archived and discontinued now, but still left public and usable as-is. |
 | [LAN_Enumeration_and_Reconnaissance_Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) | Recon and enumeration tooling focused on practical network visibility. |
 | [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer web work built to support animals affected by the Dana disaster in Valencia. |
 | [Tor-AttackTools](https://github.com/0xCyberBerserker/Tor-AttackTools) | Lab-style offensive infrastructure and routed tooling for controlled security research. |
+
+---
+
+## Archived but still usable
+
+Not everything worth showing is still under active development.
+
+Some work gets released, frozen, and left standing because it can still be useful even after the roadmap dies.
+
+- [BloodMoonPZ organization](https://github.com/BloodMoonPZ)
+- [BloodMoonPZ / PZServer](https://github.com/BloodMoonPZ/PZServer)
+
+BloodMoonPZ falls into that bucket: discontinued, no longer maintained, but still public and usable for anyone who wants to inspect it, run it, or fork it.
 
 ---
 
