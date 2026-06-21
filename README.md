@@ -97,6 +97,7 @@ AI and product tooling:
 
 Former global moderator of two historic Spanish-speaking security communities:
 
+- [Cuadernos de Hack x Crack](https://elhacker.info/manuales/Hacking%20y%20Seguridad%20informatica/Cuadernos%20Hack%20x%20Crack/) — the old material that first pulled me toward computing and hacking.
 - [Hack x Crack archive](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
 - [Underc0de profile](https://underc0de.org/foro/index.php?action=profile;u=1971)
 
