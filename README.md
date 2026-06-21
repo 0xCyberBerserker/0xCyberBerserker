@@ -1,186 +1,107 @@
 <div align="center">
   <h1>0xCyberBerserker</h1>
-  <p><strong>Security Engineering Researcher focused on exploiting, malware analysis, backend systems, AI, and custom security tooling.</strong></p>
-  <p><em>Building things for people who are tired of tab graveyards, broken context, and tools that almost work.</em></p>
+  <p><strong>Security engineering, reverse engineering, backend systems, DevSecOps, and practical AI-assisted tooling.</strong></p>
+  <p><em>Building security and developer tools that stay useful when the lab gets noisy.</em></p>
   <p>
-    <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace" src="https://img.shields.io/badge/GhostTrace-live-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
-    <a href="https://0xcyberberserker.github.io/ghosttrace-lab/en/"><img alt="Landing" src="https://img.shields.io/badge/landing-online-0a1324?style=for-the-badge&logo=githubpages&logoColor=46f3ff&labelColor=07111d"></a>
-    <img alt="Focus" src="https://img.shields.io/badge/focus-reverse%20engineering-0a1324?style=for-the-badge&logo=gnubash&logoColor=ff4fd8&labelColor=07111d">
+    <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace Lab" src="https://img.shields.io/badge/GhostTrace%20Lab-malware%20analysis-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img alt="Codex UI Linux Port" src="https://img.shields.io/badge/Codex%20UI-Linux%20packages-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit"><img alt="AUR Incident Defense Kit" src="https://img.shields.io/badge/AUR%20Incident-defense%20kit-0a1324?style=for-the-badge&logo=archlinux&logoColor=1793d1&labelColor=07111d"></a>
   </p>
   <p>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0xCyberBerserker&color=46f3ff&style=flat-square&label=profile+views">
-    <img alt="Tomcat on duty" src="https://img.shields.io/badge/%F0%9F%98%BC-tomcat%20on%20duty-0a1324?style=flat-square&labelColor=07111d&color=ff4fd8">
+    <img alt="Focus" src="https://img.shields.io/badge/focus-security%20tooling-0a1324?style=flat-square&labelColor=07111d&color=46f3ff">
+    <img alt="Location" src="https://img.shields.io/badge/Barcelona-Spain-0a1324?style=flat-square&labelColor=07111d&color=ff4fd8">
   </p>
+  <p><sub>Made with 🖤 in Barcelona City 🇪🇸</sub></p>
 </div>
 
 ---
 
 ## About
 
-I move between:
-- reverse engineering
-- malware analysis
-- offensive security
-- backend engineering
-- AI-assisted workflows
-- custom tooling for people doing real work under pressure
+I build and document security tooling across reverse engineering, malware analysis, Linux workstations, backend systems, and DevSecOps automation.
 
-I like building systems that feel cohesive from end to end:
-- one trail of evidence
-- one operator-facing surface
-- less context loss between tools
-- more things you can actually script, automate, or trust
+The public work here is intentionally bounded: defensive research workflows, authorized lab environments, developer tooling, automation, packaging, and educational software. Some older repositories are left public as historical proof-of-concepts, but they are not the front line of the profile.
 
-Most of my heavier work is private, client-bound, experimental, or simply not ready for daylight yet.  
-If you're a recruiter, interviewer, or security lead and want a clearer picture of what I build, feel free to reach out.
+Current focus:
 
-That also includes private work I can reference at a high level, but not crack open in public without stepping on the wrong toes.
-
-Private/internal threads that matter:
-- **Job-Sniper** — backend-heavy automation, AI-assisted workflows, and internal tooling.
-- **hexstrike-docker** — container and MCP-oriented integration work around operator tooling.
-- **LinkedIn-Easy-Apply-Bot / searchmeajobBot** — job automation experiments, scraping flows, and workflow design.
-- **openvpn-frontend** — older control-surface and infrastructure experimentation that still says something about how I build.
+- malware-analysis and reverse-engineering workflows
+- defensive Arch/AUR incident response tooling
+- Linux desktop and packaging automation
+- backend services, security APIs, and DevSecOps glue
+- local-first AI workflows for engineering work
+- small apps that solve real problems for real people
 
 ---
 
-## Now Building
+## Featured work
 
-### 👻 GhostTrace
-
-[`GhostTrace`](https://github.com/0xCyberBerserker/ghosttrace-lab) is the project that best represents where my head is right now.
-
-> Reverse engineering with operator-grade workflows, debugger context, sandbox trails, and less tab graveyard energy.
-
-It brings together:
-- `Ghidraaas` for static analysis
-- local `Ollama` for reasoning
-- persistent triage per sample
-- a reproducible Windows lab with SSH
-- an `x64dbg` bridge that feeds debugger context back into the same workspace
-
-Links:
-- Repo: [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
-- Landing: [ghosttrace-lab/en](https://0xcyberberserker.github.io/ghosttrace-lab/en/)
-- Landing (ES): [ghosttrace-lab/es](https://0xcyberberserker.github.io/ghosttrace-lab/es/)
-
-### 🎯 Job-Sniper
-
-I also spend time on **Job-Sniper** private repos inside its organization.
-
-That work stays off the public stage for obvious reasons, but it sits in the same lane: backend-heavy systems, automation, AI-assisted workflows, and tooling built to do real work instead of just looking clever in screenshots.
-
-### 🧪 Other active private threads
-
-There are a few other private lines of work that don't get a public repo tour, but still matter to the picture:
-
-- **hexstrike-docker** for containerised operator tooling and MCP-facing workflows
-- **LinkedIn-Easy-Apply-Bot** and **searchmeajobBot** for automation experiments around job systems
-- **openvpn-frontend** as older but still telling infrastructure/tooling work
+| Project | Signal |
+| --- | --- |
+| [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | Malware-analysis and reverse-engineering lab focused on safe, documented security research workflows. |
+| [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit) | Defensive Arch/AUR audit kit for package correlation, pacman timelines, IOC checks, and remediation planning. |
+| [Codex UI Linux Port](https://github.com/0xCyberBerserker/codex-ui-linux-port) | Unofficial Linux packages and release automation for Codex UI across Arch/CachyOS, Debian/Ubuntu, and RPM builds. |
+| [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp) | Spanish Codex skill for shorter answers, cleaner patches, and token-efficient developer workflows. |
+| [Mente Activa](https://github.com/0xCyberBerserker/mente-activa) | Educational Godot app with accessible short memory, language, and attention activities for older adults and caregivers. |
+| [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer web work supporting Santuario Dana Tagoro after the Valencia DANA disaster. |
 
 ---
 
-## Selected Public Work
+## Security research
 
-| Project | Why it matters |
-|---|---|
-| [ghosttrace-lab](https://github.com/0xCyberBerserker/ghosttrace-lab) | AI-assisted reverse engineering workbench with Ghidraaas, Ollama, Windows sandboxing, and debugger-aware workflows. |
-| [BloodMoonPZ / PZServer](https://github.com/BloodMoonPZ/PZServer) | Legacy Project Zomboid server engineering work. Archived and discontinued now, but still left public and usable as-is. |
-| [CLI-Anything](https://github.com/0xCyberBerserker/CLI-Anything) | Agent-native CLI exploration track I am following because I care about where AI tooling is going next. |
-| [LAN_Enumeration_and_Reconnaissance_Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) | Recon and enumeration tooling focused on practical network visibility. |
-| [paginaSantuarioDana](https://github.com/0xCyberBerserker/paginaSantuarioDana) | Volunteer web work built to support animals affected by the Dana disaster in Valencia. |
-| [Tor-AttackTools](https://github.com/0xCyberBerserker/Tor-AttackTools) | Lab-style offensive infrastructure and routed tooling for controlled security research. |
+I keep security work framed around authorization, reproducibility, and defensive value.
 
----
+- [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab) ties static analysis, local AI reasoning, triage state, and sandbox evidence into one research workflow.
+- [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit) focuses on local package incident review for Arch-based systems.
+- [LAN Enumeration and Reconnaissance Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) is kept in the authorized network visibility lane.
+- [Tor AttackTools Lab](https://github.com/0xCyberBerserker/Tor-AttackTools) belongs in controlled lab and education contexts.
 
-## Other public traces
-
-Not every public repo needs the front seat, but some of them still help explain the shape of the work:
-
-- [Remote-Admin-Tool](https://github.com/0xCyberBerserker/Remote-Admin-Tool) — rougher offensive tooling territory
-- [GoKeylogger](https://github.com/0xCyberBerserker/GoKeylogger) — old proof-of-concept territory, part of the roots
-- [PythonCrypter](https://github.com/0xCyberBerserker/PythonCrypter) — small crypto utility work
-- [ScriptCollection](https://github.com/0xCyberBerserker/ScriptCollection) and [fsdenv](https://github.com/0xCyberBerserker/fsdenv) — quality-of-life shell and dev environment tooling
-- [terraform-aws-samples](https://github.com/0xCyberBerserker/terraform-aws-samples) — infrastructure-as-code samples from the DevOps side
-- [X-Force-Analysis](https://github.com/0xCyberBerserker/X-Force-Analysis), [VirusTotalScreenShot](https://github.com/0xCyberBerserker/VirusTotalScreenShot), [AbuseIPdbSCAN](https://github.com/0xCyberBerserker/AbuseIPdbSCAN), and [nmapListScanner](https://github.com/0xCyberBerserker/nmapListScanner) — smaller security utilities, API integrations, and scanning helpers
-
-Some are sharper than others. Some are older than they should be. All of them tell part of the story.
+Older proof-of-concept repositories such as `GoKeylogger`, `Remote-Admin-Tool`, and `PythonCrypter` are part of the historical trail, not the profile's main signal.
 
 ---
 
-## Archived but still usable
+## Developer tooling and systems
 
-Not everything worth showing is still under active development.
+I like tools that reduce operational drag:
 
-Some work gets released, frozen, and left standing because it can still be useful even after the roadmap dies.
-
-- [BloodMoonPZ organization](https://github.com/BloodMoonPZ)
-- [BloodMoonPZ / PZServer](https://github.com/BloodMoonPZ/PZServer)
-
-BloodMoonPZ falls into that bucket: discontinued, no longer maintained, but still public and usable for anyone who wants to inspect it, run it, or fork it.
-
----
-
-## Hacker Roots
-
-I’m not interested in pretending the old scene never happened.
-
-Those roots shaped how I think about security, tooling, and culture.
-
-Former global moderator of two historic Spanish-speaking hacking forums:
-
-- **Hack x Crack**
-  Legendary. Domain gone, memory intact.  
-  Archive: [web.archive.org / hackxcrack](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
-
-- **Underc0de**
-  Still alive, still moving.  
-  Profile: [underc0de.org](https://underc0de.org/foro/index.php?action=profile;u=1971)
-
-That background taught me to value tools that are:
-- sharp
-- usable
-- grounded in reality
-- built by people who have actually needed them
+- [Codex UI Linux Port](https://github.com/0xCyberBerserker/codex-ui-linux-port) for Linux packaging around a real workstation workflow.
+- [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp) for compact coding-agent output in Spanish.
+- [Mente Activa](https://github.com/0xCyberBerserker/mente-activa) for accessible educational activities built in Godot.
+- [warpdesk](https://github.com/0xCyberBerserker/warpdesk) for a native Linux frontend around Cloudflare WARP workflows.
+- [terraform-aws-samples](https://github.com/0xCyberBerserker/terraform-aws-samples) for infrastructure-as-code samples.
 
 ---
 
-## What I Like Building
+## Stack
 
-### Research
-- Exploiting
-- Malware analysis
-- Reverse engineering
-- Threat research
-- Windows internals
+Security and systems:
 
-### Engineering
-- Backend systems
-- Security APIs
-- DevSecOps automation
-- Hardened infrastructure
-- Custom red/blue team tooling
+- reverse engineering, malware analysis, DFIR-oriented workflows
+- Linux, Windows, Docker, PowerShell, Bash
+- Python, Go, shell tooling, backend services
+- CI/CD, packaging, incident review, automation
 
-### AI
-- Local-first AI workflows
-- Practical model integration
-- Operator-facing assistants
-- Tooling that uses AI without becoming slop
+AI and product tooling:
 
-Main languages and tools:
-- Python
-- Go
-- PowerShell
-- Bash
-- Docker
-- Windows
-- Linux
+- local-first AI workflows
+- coding-agent ergonomics
+- retrieval and memory experiments
+- practical assistants tied to real tools
+
+---
+
+## Background
+
+Former global moderator of two historic Spanish-speaking security communities:
+
+- [Hack x Crack archive](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
+- [Underc0de profile](https://underc0de.org/foro/index.php?action=profile;u=1971)
+
+That background still shapes how I evaluate tools: useful beats decorative, evidence beats noise, and public work should be clear about its boundary.
 
 ---
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/jcarlosgl-offensive-security](https://www.linkedin.com/in/jcarlosgl-offensive-security/)
 - GitHub: [github.com/0xCyberBerserker](https://github.com/0xCyberBerserker)
-
-Improvement ideas are welcome, and thoughtful criticism is always taken seriously.
+- LinkedIn: [linkedin.com/in/jcarlosgl-offensive-security](https://www.linkedin.com/in/jcarlosgl-offensive-security/)
