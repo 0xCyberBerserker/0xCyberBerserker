@@ -53,7 +53,7 @@ Current focus:
 
 I keep security work framed around authorization, reproducibility, and defensive value.
 
-- I am currently using a fresh [Hack The Box profile](https://app.hackthebox.com/users/3633924) as a public OSCP-preparation challenge track.
+- I am using [Hack The Box](https://app.hackthebox.com/users/3633924) as a public OSCP-preparation practice track.
 - [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab) ties static analysis, local AI reasoning, triage state, and sandbox evidence into one research workflow.
 - [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit) focuses on local package incident review for Arch-based systems.
 - [LAN Enumeration and Reconnaissance Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) is kept in the authorized network visibility lane.
