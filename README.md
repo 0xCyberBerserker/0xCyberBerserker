@@ -6,6 +6,7 @@
     <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace Lab" src="https://img.shields.io/badge/GhostTrace%20Lab-malware%20analysis-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
     <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img alt="Codex UI Linux Port" src="https://img.shields.io/badge/Codex%20UI-Linux%20packages-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
     <a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit"><img alt="AUR Incident Defense Kit" src="https://img.shields.io/badge/AUR%20Incident-defense%20kit-0a1324?style=for-the-badge&logo=archlinux&logoColor=1793d1&labelColor=07111d"></a>
+    <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-OSCP%20prep-0a1324?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=07111d"></a>
   </p>
   <p>
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=0xCyberBerserker&color=46f3ff&style=flat-square&label=profile+views">
@@ -26,6 +27,7 @@ The public work here is intentionally bounded: defensive research workflows, aut
 Current focus:
 
 - malware-analysis and reverse-engineering workflows
+- OSCP preparation through structured Hack The Box practice
 - defensive Arch/AUR incident response tooling
 - Linux desktop and packaging automation
 - backend services, security APIs, and DevSecOps glue
@@ -51,6 +53,7 @@ Current focus:
 
 I keep security work framed around authorization, reproducibility, and defensive value.
 
+- I am currently using a fresh [Hack The Box profile](https://app.hackthebox.com/users/3633924) as a public OSCP-preparation challenge track.
 - [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab) ties static analysis, local AI reasoning, triage state, and sandbox evidence into one research workflow.
 - [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit) focuses on local package incident review for Arch-based systems.
 - [LAN Enumeration and Reconnaissance Tool](https://github.com/0xCyberBerserker/LAN_Enumeration_and_Reconnaissance_Tool) is kept in the authorized network visibility lane.
