@@ -1,13 +1,29 @@
 <div align="center">
-  <h1>Juan Carlos Gutiérrez Lavado</h1>
-  <p><code>@0xCyberBerserker</code></p>
+  <h1>0xCyberBerserker</h1>
   <p><strong>Cybersecurity Engineer focused on offensive security, reverse engineering, Linux systems, and security automation.</strong></p>
+  <p><em>Building security and systems tooling that stays useful when the lab gets noisy.</em></p>
+  <p>
+    <a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux"><img alt="SPC Glee A64 Linux" src="https://img.shields.io/badge/SPC%20Glee%20A64-Linux%20%2F%20ARM64-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace Lab" src="https://img.shields.io/badge/GhostTrace-malware%20analysis-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/OSCP-Arsenal"><img alt="OSCP Arsenal" src="https://img.shields.io/badge/OSCP%20Arsenal-offline%20toolkit-0a1324?style=for-the-badge&logo=kalilinux&logoColor=9fef00&labelColor=07111d"></a>
+  </p>
+  <p>
+    <a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit"><img alt="AUR Incident Defense Kit" src="https://img.shields.io/badge/AUR%20Incident-defense%20kit-0a1324?style=for-the-badge&logo=archlinux&logoColor=1793d1&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img alt="Codex UI Linux Port" src="https://img.shields.io/badge/Codex%20UI-Linux%20packages-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
+    <a href="https://github.com/0xCyberBerserker/warpdesk"><img alt="WarpDesk" src="https://img.shields.io/badge/WarpDesk-Qt%20for%20Linux-0a1324?style=for-the-badge&logo=qt&logoColor=41cd52&labelColor=07111d"></a>
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/">LinkedIn</a>
     · <a href="https://app.hackthebox.com/users/3633924">Hack The Box</a>
     · <a href="#open-source--upstream">Open Source</a>
   </p>
+  <p>
+    <img alt="Focus" src="https://img.shields.io/badge/focus-security%20engineering-0a1324?style=flat-square&labelColor=07111d&color=46f3ff">
+    <img alt="Location" src="https://img.shields.io/badge/Barcelona-Spain-0a1324?style=flat-square&labelColor=07111d&color=ff4fd8">
+  </p>
 </div>
+
+---
 
 ## Engineering focus
 
@@ -16,6 +32,8 @@ hardware and software evidence, maintainable implementation, CI/release automati
 and operator-facing tooling. I prefer explicit security boundaries, reversible changes,
 and debugging claims backed by artifacts or tests. Security work is limited to
 authorized environments and defensive research.
+
+---
 
 ## Selected engineering
 
@@ -54,6 +72,8 @@ authorized environments and defensive research.
   </tbody>
 </table>
 
+---
+
 ## Open Source / Upstream
 
 - **Linux kernel:** submitted the SPC Glee A64 minimal board-support PATCH v1
@@ -63,15 +83,33 @@ authorized environments and defensive research.
   skill through [PR #55](https://github.com/HKUDS/CLI-Anything/pull/55), merged
   upstream and credited in the [v0.2.0 release](https://github.com/HKUDS/CLI-Anything/releases/tag/v0.2.0).
 
+---
+
 ## Other work / Community
 
 - [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp) — Spanish Codex skill for compact, maintainable engineering workflows.
 - [Santuario Dana](https://github.com/0xCyberBerserker/paginaSantuarioDana) — volunteer software supporting an animal sanctuary affected by the Valencia DANA disaster.
 - [Mente Activa](https://github.com/0xCyberBerserker/mente-activa) — accessible educational activities for older adults, families, and caregivers.
 
+---
+
+## Community roots
+
+Former global moderator of two historic Spanish-speaking security communities:
+
+- [Cuadernos de Hack x Crack](https://elhacker.info/manuales/Hacking%20y%20Seguridad%20informatica/Cuadernos%20Hack%20x%20Crack/) — the material that first pulled me toward computing and hacking.
+- [Hack x Crack archive](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
+- [Underc0de profile](https://underc0de.org/foro/index.php?action=profile;u=1971)
+
+That background still shapes how I evaluate tools: useful beats decorative,
+evidence beats noise, and public work should be clear about its boundaries.
+
+---
+
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jcarlosgl-offensive-security/)
+- GitHub: [github.com/0xCyberBerserker](https://github.com/0xCyberBerserker)
+- LinkedIn: [linkedin.com/in/jcarlosgl-offensive-security](https://www.linkedin.com/in/jcarlosgl-offensive-security/)
 
 <div align="center">
   <sub>Barcelona, Spain · Made with 🖤 in Barcelona City 🇪🇸</sub>
