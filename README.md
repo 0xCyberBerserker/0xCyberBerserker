@@ -21,41 +21,45 @@ authorized environments and defensive research.
 
 ---
 
-## Selected engineering
+## Featured projects
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Engineering result</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux">SPC Glee A64 Linux</a></td>
-      <td>Brought Linux/ARM64 to an unsupported Allwinner A64 tablet with reproducible U-Boot, TF-A, and kernel tooling. The minimal hardware-tested Device Tree cold-boots from microSD to systemd; the Linux board-support PATCH v1 is submitted for upstream review.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/ghosttrace-lab">GhostTrace Lab</a></td>
-      <td>Reverse-engineering and malware-analysis workbench connecting static and dynamic evidence, Ghidraaas, local/configurable LLM reasoning, a Windows sandbox, x64dbg integration, and persistent triage workflows.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/OSCP-Arsenal">OSCP Arsenal</a></td>
-      <td>Offline-first offensive-security reference with 201 tool sheets and 16 interactive methodology paths, delivered as a PWA and Qt/QML reader with Linux, Windows, and Android builds plus OIDC/Sigstore provenance.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit">AUR Incident Defense Kit</a></td>
-      <td>Non-destructive Arch/AUR supply-chain incident auditing that preserves evidence hashes, correlates packages, timelines, IOCs, provenance, and integrity, then produces a remediation plan.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/codex-ui-linux-port">Codex UI Linux Port</a></td>
-      <td>Auditable release automation for Arch/CachyOS, Debian/Ubuntu, and RPM packages, with upstream source tracking, hash verification, GitHub Actions, and an explicit public/private data boundary.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/0xCyberBerserker/warpdesk">WarpDesk</a></td>
-      <td>Native-feeling PySide6/Qt frontend for Cloudflare WARP on Linux with profiles, diagnostics, multilingual desktop integration, and a theme-aware system palette.</td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux">SPC Glee A64 Linux</a></h3>
+      <p>Hardware-tested Linux/ARM64 bring-up for an unsupported Allwinner A64 tablet. The minimal Device Tree cold-boots from microSD to systemd; PATCH v1 is submitted for upstream review.</p>
+      <p><sub><code>Linux kernel</code> · <code>ARM64</code> · <code>Device Tree</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/ghosttrace-lab">GhostTrace Lab</a></h3>
+      <p>Reverse-engineering and malware-analysis workbench connecting static and dynamic evidence, Ghidraaas, local LLM reasoning, a Windows sandbox, and x64dbg.</p>
+      <p><sub><code>Reverse engineering</code> · <code>Malware analysis</code> · <code>Python</code></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/OSCP-Arsenal">OSCP Arsenal</a></h3>
+      <p>Offline-first offensive-security reference with 201 tool sheets, 16 interactive methodology paths, and PWA plus Qt/QML applications.</p>
+      <p><sub><code>Offensive security</code> · <code>PWA</code> · <code>Qt/QML</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit">AUR Incident Defense Kit</a></h3>
+      <p>Non-destructive Arch/AUR supply-chain incident auditing with evidence hashes, package and timeline correlation, IOC checks, and remediation planning.</p>
+      <p><sub><code>Incident response</code> · <code>Supply chain</code> · <code>Arch Linux</code></sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/codex-ui-linux-port">Codex UI Linux Port</a></h3>
+      <p>Auditable release automation for Arch, Debian, and RPM packages with source tracking, hash verification, GitHub Actions, and explicit privacy boundaries.</p>
+      <p><sub><code>Linux packaging</code> · <code>CI/CD</code> · <code>Release engineering</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/0xCyberBerserker/warpdesk">WarpDesk</a></h3>
+      <p>Native-feeling Cloudflare WARP frontend with profiles, diagnostics, multilingual desktop integration, and a theme-aware Qt palette.</p>
+      <p><sub><code>PySide6</code> · <code>Qt</code> · <code>Linux desktop</code></sub></p>
+    </td>
+  </tr>
 </table>
 
 ---
