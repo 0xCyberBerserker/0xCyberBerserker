@@ -16,8 +16,6 @@ I take work from investigation to a result that can be reproduced, tested, and
 maintained. Evidence-led debugging, explicit security boundaries, reversible
 changes, and documentation built for operators.
 
-<br>
-
 ## Work
 
 ### [SPC Glee A64 Linux](https://github.com/0xCyberBerserker/spc-glee-a64-linux)
@@ -32,8 +30,6 @@ review.
 
 `Linux kernel` `ARM64` `Device Tree` `U-Boot` `TF-A`
 
-<br>
-
 ### [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
 
 **A persistent evidence workflow for reverse engineering and malware analysis.**
@@ -44,8 +40,6 @@ configurable local LLM reasoning without losing the chain of evidence.
 [Repository](https://github.com/0xCyberBerserker/ghosttrace-lab)
 
 `Reverse engineering` `Malware analysis` `Python` `Sandboxing`
-
-<br>
 
 ### [OSCP Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
 
@@ -58,8 +52,6 @@ with automated releases and OIDC/Sigstore provenance.
 
 `Offensive security` `PWA` `Qt/QML` `Release engineering`
 
-<br>
-
 ### [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit)
 
 **Arch/AUR incident auditing without destructive remediation.**
@@ -70,8 +62,6 @@ reviewable remediation plan for supply-chain incidents.
 [Repository](https://github.com/0xCyberBerserker/aur-incident-defense-kit)
 
 `Incident response` `Supply-chain security` `Arch Linux`
-
-<br>
 
 ### [Codex UI Linux Port](https://github.com/0xCyberBerserker/codex-ui-linux-port)
 
@@ -84,8 +74,6 @@ verification, GitHub Actions, and documented privacy constraints.
 
 `Linux packaging` `CI/CD` `Supply chain` `Release engineering`
 
-<br>
-
 ### [WarpDesk](https://github.com/0xCyberBerserker/warpdesk)
 
 **A Linux-native control surface for Cloudflare WARP.**
@@ -96,8 +84,6 @@ and rendering that follows the active system palette.
 [Repository](https://github.com/0xCyberBerserker/warpdesk)
 
 `PySide6` `Qt` `Linux desktop` `Networking`
-
-<br>
 
 ## Upstream
 
@@ -113,8 +99,6 @@ The PowerShell installer for the Codex skill was merged upstream through
 [PR #55](https://github.com/HKUDS/CLI-Anything/pull/55) and credited in the
 [v0.2.0 release](https://github.com/HKUDS/CLI-Anything/releases/tag/v0.2.0).
 
-<br>
-
 ## Activity
 
 <!--START_SECTION:activity-->
@@ -123,15 +107,11 @@ The PowerShell installer for the Codex skill was merged upstream through
 3. 🚀 Published release [OSCP Knowledge Paths v0.2.0](https://github.com/0xCyberBerserker/OSCP-Arsenal/releases/tag/v0.2.0) in [0xCyberBerserker/OSCP-Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
 <!--END_SECTION:activity-->
 
-<br>
-
 ## Community
 
 - [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp): a Spanish Codex skill for compact, maintainable engineering workflows.
 - [Santuario Dana](https://github.com/0xCyberBerserker/paginaSantuarioDana): volunteer software supporting an animal sanctuary affected by the Valencia DANA disaster.
 - [Mente Activa](https://github.com/0xCyberBerserker/mente-activa): accessible educational activities for older adults, families, and caregivers.
-
-<br>
 
 ## Security community roots
 
@@ -145,13 +125,9 @@ first pulled me toward computing and hacking.
 That background still shapes how I evaluate tools: useful beats decorative,
 evidence beats noise, and public work should state its boundaries clearly.
 
-<br>
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/jcarlosgl-offensive-security/) for professional contact.
-
-<br>
 
 <div align="center">
   <sub>Made with 🖤 in Barcelona City 🇪🇸</sub>
