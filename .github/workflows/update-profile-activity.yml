@@ -1,0 +1,34 @@
+name: Update profile activity
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Refresh public activity
+        uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea # v0.5.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: 0xCyberBerserker
+          MAX_LINES: "4"
+          FILTER_EVENTS: PullRequestEvent,ReleaseEvent
+          COMMIT_MSG: "chore: refresh public activity"
+          EMPTY_COMMIT_MSG: "chore: keep profile activity workflow active"
