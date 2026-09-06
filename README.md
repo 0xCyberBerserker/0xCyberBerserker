@@ -1,7 +1,9 @@
 <div align="center">
+  <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
+    <img alt="Animated network topology" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="150">
+  </a>
   <h1>0xCyberBerserker</h1>
   <p><strong>Cybersecurity Engineer working across offensive security, reverse engineering, Linux/ARM64, DevSecOps, and security automation.</strong></p>
-  <p>I build reproducible tooling and operator workflows, from malware-analysis labs to hardware-tested Linux board support.</p>
   <p>
     <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00"></a>
