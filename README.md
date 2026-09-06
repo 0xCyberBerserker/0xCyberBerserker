@@ -13,9 +13,9 @@
     <a href="https://github.com/0xCyberBerserker/warpdesk"><img alt="WarpDesk" src="https://img.shields.io/badge/WarpDesk-Qt%20for%20Linux-0a1324?style=for-the-badge&logo=qt&logoColor=41cd52&labelColor=07111d"></a>
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/">LinkedIn</a>
-    · <a href="https://app.hackthebox.com/users/3633924">Hack The Box</a>
-    · <a href="#open-source--upstream">Open Source</a>
+    <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-0a1324?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=07111d"></a>
+    <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-profile-0a1324?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=07111d"></a>
+    <a href="#open-source--upstream"><img alt="Open Source and Upstream" src="https://img.shields.io/badge/Open%20Source-upstream-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
   </p>
   <p>
     <img alt="Focus" src="https://img.shields.io/badge/focus-security%20engineering-0a1324?style=flat-square&labelColor=07111d&color=46f3ff">
