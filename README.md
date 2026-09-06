@@ -3,23 +3,9 @@
   <p><strong>Cybersecurity Engineer focused on offensive security, reverse engineering, Linux systems, and security automation.</strong></p>
   <p><em>Building security and systems tooling that stays useful when the lab gets noisy.</em></p>
   <p>
-    <a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux"><img alt="SPC Glee A64 Linux" src="https://img.shields.io/badge/SPC%20Glee%20A64-Linux%20%2F%20ARM64-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
-    <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img alt="GhostTrace Lab" src="https://img.shields.io/badge/GhostTrace-malware%20analysis-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
-    <a href="https://github.com/0xCyberBerserker/OSCP-Arsenal"><img alt="OSCP Arsenal" src="https://img.shields.io/badge/OSCP%20Arsenal-offline%20toolkit-0a1324?style=for-the-badge&logo=kalilinux&logoColor=9fef00&labelColor=07111d"></a>
-  </p>
-  <p>
-    <a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit"><img alt="AUR Incident Defense Kit" src="https://img.shields.io/badge/AUR%20Incident-defense%20kit-0a1324?style=for-the-badge&logo=archlinux&logoColor=1793d1&labelColor=07111d"></a>
-    <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img alt="Codex UI Linux Port" src="https://img.shields.io/badge/Codex%20UI-Linux%20packages-0a1324?style=for-the-badge&logo=linux&logoColor=ffcc00&labelColor=07111d"></a>
-    <a href="https://github.com/0xCyberBerserker/warpdesk"><img alt="WarpDesk" src="https://img.shields.io/badge/WarpDesk-Qt%20for%20Linux-0a1324?style=for-the-badge&logo=qt&logoColor=41cd52&labelColor=07111d"></a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-0a1324?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=07111d"></a>
-    <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-profile-0a1324?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=07111d"></a>
-    <a href="#open-source--upstream"><img alt="Open Source and Upstream" src="https://img.shields.io/badge/Open%20Source-upstream-0a1324?style=for-the-badge&logo=github&logoColor=46f3ff&labelColor=07111d"></a>
-  </p>
-  <p>
-    <img alt="Focus" src="https://img.shields.io/badge/focus-security%20engineering-0a1324?style=flat-square&labelColor=07111d&color=46f3ff">
-    <img alt="Location" src="https://img.shields.io/badge/Barcelona-Spain-0a1324?style=flat-square&labelColor=07111d&color=ff4fd8">
+    <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9fef00"></a>
+    <a href="#open-source--upstream"><img alt="Open Source and Upstream" src="https://img.shields.io/badge/Open%20Source-upstream-24292f?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
 </div>
 
