@@ -6,10 +6,15 @@
   <p><strong>Cybersecurity Engineer working across offensive security, reverse engineering, Linux/ARM64, DevSecOps, and security automation.</strong></p>
   <p>
     <a href="https://www.linkedin.com/in/jcarlosgl-offensive-security/"><img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://app.hackthebox.com/users/3633924"><img alt="Hack The Box profile" src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00"></a>
     <a href="#upstream-contributions"><img alt="Open source contributions" src="https://img.shields.io/badge/Open%20Source-Contributions-24292F?style=flat-square&logo=github&logoColor=white"></a>
   </p>
 </div>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/3633924">
+    <img alt="Hack The Box profile badge" src="https://www.hackthebox.com/badge/image/3633924" width="220">
+  </a>
+</p>
 
 <br>
 
