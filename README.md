@@ -89,9 +89,9 @@ The PowerShell installer for the Codex skill was merged upstream through
 ## Recent public activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0-alpha.1](https://github.com/0xCyberBerserker/spc-glee-a64-linux/releases/tag/v0.1.0-alpha.1) in [0xCyberBerserker/spc-glee-a64-linux](https://github.com/0xCyberBerserker/spc-glee-a64-linux)
-2. 🚀 Published release [v0.3.0](https://github.com/0xCyberBerserker/OSCP-Arsenal/releases/tag/v0.3.0) in [0xCyberBerserker/OSCP-Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
-3. 🚀 Published release [v0.2.0](https://github.com/0xCyberBerserker/OSCP-Arsenal/releases/tag/v0.2.0) in [0xCyberBerserker/OSCP-Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
+1. 🚀 Published release [SPC Glee A64 Linux v0.1.0-alpha.1](https://github.com/0xCyberBerserker/spc-glee-a64-linux/releases/tag/v0.1.0-alpha.1) in [0xCyberBerserker/spc-glee-a64-linux](https://github.com/0xCyberBerserker/spc-glee-a64-linux)
+2. 🚀 Published release [OSCP Arsenal v0.3.0](https://github.com/0xCyberBerserker/OSCP-Arsenal/releases/tag/v0.3.0) in [0xCyberBerserker/OSCP-Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
+3. 🚀 Published release [OSCP Knowledge Paths v0.2.0](https://github.com/0xCyberBerserker/OSCP-Arsenal/releases/tag/v0.2.0) in [0xCyberBerserker/OSCP-Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
 <!--END_SECTION:activity-->
 
 <br>
