@@ -23,44 +23,48 @@ authorized environments and defensive research.
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux">SPC Glee A64 Linux</a></h3>
-      <p>Hardware-tested Linux/ARM64 bring-up for an unsupported Allwinner A64 tablet. The minimal Device Tree cold-boots from microSD to systemd; PATCH v1 is submitted for upstream review.</p>
-      <p><sub><code>Linux kernel</code> · <code>ARM64</code> · <code>Device Tree</code></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/ghosttrace-lab">GhostTrace Lab</a></h3>
-      <p>Reverse-engineering and malware-analysis workbench connecting static and dynamic evidence, Ghidraaas, local LLM reasoning, a Windows sandbox, and x64dbg.</p>
-      <p><sub><code>Reverse engineering</code> · <code>Malware analysis</code> · <code>Python</code></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/OSCP-Arsenal">OSCP Arsenal</a></h3>
-      <p>Offline-first offensive-security reference with 201 tool sheets, 16 interactive methodology paths, and PWA plus Qt/QML applications.</p>
-      <p><sub><code>Offensive security</code> · <code>PWA</code> · <code>Qt/QML</code></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit">AUR Incident Defense Kit</a></h3>
-      <p>Non-destructive Arch/AUR supply-chain incident auditing with evidence hashes, package and timeline correlation, IOC checks, and remediation planning.</p>
-      <p><sub><code>Incident response</code> · <code>Supply chain</code> · <code>Arch Linux</code></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/codex-ui-linux-port">Codex UI Linux Port</a></h3>
-      <p>Auditable release automation for Arch, Debian, and RPM packages with source tracking, hash verification, GitHub Actions, and explicit privacy boundaries.</p>
-      <p><sub><code>Linux packaging</code> · <code>CI/CD</code> · <code>Release engineering</code></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/0xCyberBerserker/warpdesk">WarpDesk</a></h3>
-      <p>Native-feeling Cloudflare WARP frontend with profiles, diagnostics, multilingual desktop integration, and a theme-aware Qt palette.</p>
-      <p><sub><code>PySide6</code> · <code>Qt</code> · <code>Linux desktop</code></sub></p>
-    </td>
-  </tr>
-</table>
+### [SPC Glee A64 Linux](https://github.com/0xCyberBerserker/spc-glee-a64-linux)
+
+Hardware-tested Linux/ARM64 bring-up for an unsupported Allwinner A64 tablet.
+The minimal Device Tree cold-boots from microSD to systemd; PATCH v1 is
+submitted for upstream review.
+
+<sub><code>Linux kernel</code> / <code>ARM64</code> / <code>Device Tree</code></sub>
+
+### [GhostTrace Lab](https://github.com/0xCyberBerserker/ghosttrace-lab)
+
+Reverse-engineering and malware-analysis workbench connecting static and dynamic
+evidence, Ghidraaas, local LLM reasoning, a Windows sandbox, and x64dbg.
+
+<sub><code>Reverse engineering</code> / <code>Malware analysis</code> / <code>Python</code></sub>
+
+### [OSCP Arsenal](https://github.com/0xCyberBerserker/OSCP-Arsenal)
+
+Offline-first offensive-security reference with 201 tool sheets, 16 interactive
+methodology paths, and PWA plus Qt/QML applications.
+
+<sub><code>Offensive security</code> / <code>PWA</code> / <code>Qt/QML</code></sub>
+
+### [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit)
+
+Non-destructive Arch/AUR supply-chain incident auditing with evidence hashes,
+package and timeline correlation, IOC checks, and remediation planning.
+
+<sub><code>Incident response</code> / <code>Supply chain</code> / <code>Arch Linux</code></sub>
+
+### [Codex UI Linux Port](https://github.com/0xCyberBerserker/codex-ui-linux-port)
+
+Auditable release automation for Arch, Debian, and RPM packages with source
+tracking, hash verification, GitHub Actions, and explicit privacy boundaries.
+
+<sub><code>Linux packaging</code> / <code>CI/CD</code> / <code>Release engineering</code></sub>
+
+### [WarpDesk](https://github.com/0xCyberBerserker/warpdesk)
+
+Native-feeling Cloudflare WARP frontend with profiles, diagnostics, multilingual
+desktop integration, and a theme-aware Qt palette.
+
+<sub><code>PySide6</code> / <code>Qt</code> / <code>Linux desktop</code></sub>
 
 ---
 
@@ -77,9 +81,9 @@ authorized environments and defensive research.
 
 ## Other work / Community
 
-- [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp) — Spanish Codex skill for compact, maintainable engineering workflows.
-- [Santuario Dana](https://github.com/0xCyberBerserker/paginaSantuarioDana) — volunteer software supporting an animal sanctuary affected by the Valencia DANA disaster.
-- [Mente Activa](https://github.com/0xCyberBerserker/mente-activa) — accessible educational activities for older adults, families, and caregivers.
+- [token-rat-esp](https://github.com/0xCyberBerserker/token-rat-esp): Spanish Codex skill for compact, maintainable engineering workflows.
+- [Santuario Dana](https://github.com/0xCyberBerserker/paginaSantuarioDana): volunteer software supporting an animal sanctuary affected by the Valencia DANA disaster.
+- [Mente Activa](https://github.com/0xCyberBerserker/mente-activa): accessible educational activities for older adults, families, and caregivers.
 
 ---
 
@@ -87,7 +91,7 @@ authorized environments and defensive research.
 
 Former global moderator of two historic Spanish-speaking security communities:
 
-- [Cuadernos de Hack x Crack](https://elhacker.info/manuales/Hacking%20y%20Seguridad%20informatica/Cuadernos%20Hack%20x%20Crack/) — the material that first pulled me toward computing and hacking.
+- [Cuadernos de Hack x Crack](https://elhacker.info/manuales/Hacking%20y%20Seguridad%20informatica/Cuadernos%20Hack%20x%20Crack/): the material that first pulled me toward computing and hacking.
 - [Hack x Crack archive](https://web.archive.org/web/20200923003951/https://hackxcrack.net/foro/profile/3hy%21/)
 - [Underc0de profile](https://underc0de.org/foro/index.php?action=profile;u=1971)
 
