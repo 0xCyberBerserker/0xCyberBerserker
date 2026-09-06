@@ -19,7 +19,7 @@ changes, and documentation built for operators.
 ## Work
 
 <a href="https://github.com/0xCyberBerserker/spc-glee-a64-linux">
-  <img src="./assets/projects/spc-glee-a64.webp" width="100%" alt="Concept artwork for the SPC Glee A64 Linux bring-up">
+  <img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/spc-glee-a64.webp" width="100%" alt="Concept artwork for the SPC Glee A64 Linux bring-up">
 </a>
 
 ### [SPC Glee A64 Linux](https://github.com/0xCyberBerserker/spc-glee-a64-linux)
@@ -37,14 +37,14 @@ review.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img src="./assets/projects/ghosttrace-lab.webp" width="100%" alt="GhostTrace Lab project cover"></a>
+      <a href="https://github.com/0xCyberBerserker/ghosttrace-lab"><img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/ghosttrace-lab.webp" width="100%" alt="GhostTrace Lab project cover"></a>
       <h3><a href="https://github.com/0xCyberBerserker/ghosttrace-lab">GhostTrace Lab</a></h3>
       <p><strong>A persistent evidence workflow for reverse engineering and malware analysis.</strong></p>
       <p>Static and dynamic analysis across Ghidraaas, a Windows sandbox, x64dbg, and configurable local LLM reasoning.</p>
       <p><code>Reverse engineering</code> <code>Malware analysis</code> <code>Python</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/0xCyberBerserker/OSCP-Arsenal"><img src="./assets/projects/oscp-arsenal.webp" width="100%" alt="OSCP Arsenal offline search interface"></a>
+      <a href="https://github.com/0xCyberBerserker/OSCP-Arsenal"><img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/oscp-arsenal.webp" width="100%" alt="OSCP Arsenal offline search interface"></a>
       <h3><a href="https://github.com/0xCyberBerserker/OSCP-Arsenal">OSCP Arsenal</a></h3>
       <p><strong>201 tool sheets. 16 interactive methodology paths. Fully usable offline.</strong></p>
       <p>PWA and Qt/QML reader for Linux, Windows, and Android, with automated releases and OIDC/Sigstore provenance.</p>
@@ -54,7 +54,7 @@ review.
 </table>
 
 <a href="https://github.com/0xCyberBerserker/aur-incident-defense-kit">
-  <img src="./assets/projects/aur-incident-defense-kit.webp" width="100%" alt="Concept artwork for supply-chain evidence analysis">
+  <img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/aur-incident-defense-kit.webp" width="100%" alt="Concept artwork for supply-chain evidence analysis">
 </a>
 
 ### [AUR Incident Defense Kit](https://github.com/0xCyberBerserker/aur-incident-defense-kit)
@@ -71,14 +71,14 @@ reviewable remediation plan for supply-chain incidents.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img src="./assets/projects/codex-ui-linux-port.webp" width="100%" alt="Codex UI Linux Port project cover"></a>
+      <a href="https://github.com/0xCyberBerserker/codex-ui-linux-port"><img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/codex-ui-linux-port.webp" width="100%" alt="Codex UI Linux Port project cover"></a>
       <h3><a href="https://github.com/0xCyberBerserker/codex-ui-linux-port">Codex UI Linux Port</a></h3>
       <p><strong>Cross-distribution packaging with an explicit trust boundary.</strong></p>
       <p>Arch, Debian, and RPM automation with source provenance, hash verification, GitHub Actions, and documented privacy constraints.</p>
       <p><code>Linux packaging</code> <code>CI/CD</code> <code>Supply chain</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/0xCyberBerserker/warpdesk"><img src="./assets/projects/warpdesk.webp" width="100%" alt="WarpDesk Linux desktop interface"></a>
+      <a href="https://github.com/0xCyberBerserker/warpdesk"><img src="https://raw.githubusercontent.com/0xCyberBerserker/0xCyberBerserker/edab739eb59db15aca175e34934cb426aa0ec88f/assets/projects/warpdesk.webp" width="100%" alt="WarpDesk Linux desktop interface"></a>
       <h3><a href="https://github.com/0xCyberBerserker/warpdesk">WarpDesk</a></h3>
       <p><strong>A Linux-native control surface for Cloudflare WARP.</strong></p>
       <p>PySide6 and Qt integration with profiles, diagnostics, multilingual UI, and rendering that follows the system palette.</p>
