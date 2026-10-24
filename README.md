@@ -104,9 +104,9 @@ The PowerShell installer for the Codex skill was merged upstream through
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/29) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
-2. 💪 Opened PR [#29](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/29) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
-3. 🎉 Merged PR [#15](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/15) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
+1. 🎉 Merged PR [#31](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/31) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
+2. 💪 Opened PR [#32](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/32) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
+3. 🎉 Merged PR [#32](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/32) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
 <!--END_SECTION:activity-->
 
 ## Community
