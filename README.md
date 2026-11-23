@@ -104,9 +104,9 @@ The PowerShell installer for the Codex skill was merged upstream through
 ## Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/0xCyberBerserker/codex-id-lab-unofficial/pull/16) in [0xCyberBerserker/codex-id-lab-unofficial](https://github.com/0xCyberBerserker/codex-id-lab-unofficial)
-2. 💪 Opened PR [#16](https://github.com/0xCyberBerserker/codex-id-lab-unofficial/pull/16) in [0xCyberBerserker/codex-id-lab-unofficial](https://github.com/0xCyberBerserker/codex-id-lab-unofficial)
-3. 🎉 Merged PR [#107](https://github.com/0xCyberBerserker/pokemon-ultimate-gold/pull/107) in [0xCyberBerserker/pokemon-ultimate-gold](https://github.com/0xCyberBerserker/pokemon-ultimate-gold)
+1. 🎉 Merged PR [#17](https://github.com/0xCyberBerserker/codex-id-lab-unofficial/pull/17) in [0xCyberBerserker/codex-id-lab-unofficial](https://github.com/0xCyberBerserker/codex-id-lab-unofficial)
+2. 💪 Opened PR [#17](https://github.com/0xCyberBerserker/codex-id-lab-unofficial/pull/17) in [0xCyberBerserker/codex-id-lab-unofficial](https://github.com/0xCyberBerserker/codex-id-lab-unofficial)
+3. 🎉 Merged PR [#16](https://github.com/0xCyberBerserker/codex-id-lab-unofficial/pull/16) in [0xCyberBerserker/codex-id-lab-unofficial](https://github.com/0xCyberBerserker/codex-id-lab-unofficial)
 <!--END_SECTION:activity-->
 
 ## Community
